@@ -1,4 +1,8 @@
 dobri nikolay
+<<<<<<< HEAD
 dobri nikolay
 dobri nikolay
 dobri nikolay
+=======
+tu varna
+>>>>>>> 4e65acf407834faae0c42418c46fbf908e6eb060
